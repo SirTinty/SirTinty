@@ -1,38 +1,56 @@
-# 👋 Olá, sou Timóteo - *Analista de Sistemas*
- 
-🎯 **Objetivo atual**: Transição para uma função técnica em Cloud Computing com foco em automação de infraestrutura.
- 
-💼 **Hoje atuo como**: Analista de Suporte N2  
-📍 **Localização**: Rio de Janeiro, Brasil  
-📚 **Estudando**: Microsoft Azure, PowerShell e Infraestrutura como Código
- 
+# 👋 Olá, sou Timóteo – Analista de Sistemas em transição para Backend Node.js
+
+Tenho formação técnica em Eletrônica, graduação em Análise e Desenvolvimento de Sistemas, e mais de 2 anos de experiência em desenvolvimento de soluções web. Minha trajetória combina raciocínio lógico, visão de negócio e aplicação prática — mesmo partindo de ambientes low-code.
+
+Atualmente, foco minha transição para o ecossistema Node.js com MongoDB, aprofundando conceitos de JavaScript, APIs REST, autenticação com JWT, deploy em nuvem e padrões de projeto. Mantenho um plano disciplinado de evolução até 2026, com o objetivo de atuar em projetos de alta escalabilidade e impacto.
+
 ---
- 
-## 🚀 Minhas habilidades técnicas
- 
-- Suporte técnico e administração Microsoft 365 (Outlook, Teams, OneDrive)
-- Active Directory (GPO, gerenciamento de usuários e permissões)
-- Scripts de automação com PowerShell
-- Provisionamento e gerenciamento de VMs no Azure
-- Documentação e padronização de procedimentos técnicos
- 
+
+## 🧩 Experiência Técnica
+
+### 💻 Desenvolvimento
+
+- **Bubble (Low-code)** – 2 anos
+  - Projetos completos com autenticação, dashboard, banco relacional
+  - Interpretação de requisitos e modelagem de sistemas (UML, entidades, fluxos)
+  - Criação de banco de dados estruturado
+
+- **JavaScript (estudos práticos)** – em andamento
+  - Tipos, variáveis, operadores, estruturas condicionais e de repetição
+  - Arrays, objetos, funções, escopo e controle de fluxo
+  - Exercícios práticos: cadastro de usuários, sistema de menu, controle financeiro
+
+- **PHP + MySQL**
+  - CRUD completo com autenticação
+  - Projeto de sistema com leitura de requisitos e implementação própria
+
+- **Demandas práticas**
+  - Adição dinâmica de variações de links (sistema real)
+  - Suporte técnico nível 2 em ambiente corporativo (AD, rede, infraestrutura)
+
 ---
- 
-## 🛠️ Projetos em destaque
- 
-🔹 [`azure-provisioning-vm-powershell`](https://github.com/SirTinty/azure-provisioning-vm-powershell)  
-*Criação automatizada de máquinas virtuais no Azure via PowerShell.*
- 
-🔹 [`m365-user-management`](https://github.com/SirTinty/m365-user-management)  
-*Scripts para gerenciamento em lote de usuários no Microsoft 365.*
- 
+
+## 📌 Atualmente focado em:
+
+- Node.js com Express
+- MongoDB com Mongoose
+- JWT + Auth
+- Padrões REST
+- Testes com Postman
+- Deploy (Render, Railway)
+- Organização de projetos no GitHub
+
 ---
- 
+
+## 📈 Em progresso:
+
+- Projeto `api-todo-nodejs` – API com autenticação, CRUD e documentação
+- Organização do portfólio técnico
+- Criação de conteúdo técnico no GitHub
+
+---
+
 ## 📫 Contato
- 
-- [LinkedIn](https://linkedin.com/in/timoteo-jardim)
-- Email: timoteojardim@gmail.com
- 
----
- 
-> “Automatizar é mais do que ganhar tempo — é padronizar excelência.”
+
+- Email: [timoteojardim@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/timoteo-jardim/]
