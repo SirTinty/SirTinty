@@ -1,4 +1,4 @@
-# 👋 Olá, sou Timóteo
+# 👋 Olá, sou Timóteo - *Analista de Sistemas*
  
 🎯 **Objetivo atual**: Transição para uma função técnica em Cloud Computing com foco em automação de infraestrutura.
  
