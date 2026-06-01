@@ -1,8 +1,8 @@
-# 👋 Olá, sou Timóteo – Analista de Sistemas em transição para Backend Node.js
+# 👋 Olá, sou Timóteo – Analista de Sistemas
 
 Tenho formação técnica em Eletrônica, graduação em Análise e Desenvolvimento de Sistemas, e mais de 2 anos de experiência em desenvolvimento de soluções web. Minha trajetória combina raciocínio lógico, visão de negócio e aplicação prática — mesmo partindo de ambientes low-code.
 
-Atualmente, foco minha transição para o ecossistema Node.js com MongoDB, aprofundando conceitos de JavaScript, APIs REST, autenticação com JWT, deploy em nuvem e padrões de projeto. Mantenho um plano disciplinado de evolução até 2026, com o objetivo de atuar em projetos de alta escalabilidade e impacto.
+Atualmente, foco no ecossistema Node.js, MongoDB, aprofundando conceitos de JavaScript, APIs REST, autenticação com JWT, deploy em nuvem e padrões de projeto. Mantenho um plano disciplinado de evolução até 2026, com o objetivo de atuar em projetos de alta escalabilidade e impacto.
 
 ---
 
